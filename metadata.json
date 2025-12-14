@@ -1,0 +1,8 @@
+{
+  "name": "Gemini Live Assistant",
+  "description": "A real-time multimodal AI assistant featuring live audio and video interaction powered by Gemini 2.5 Flash Native Audio.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
